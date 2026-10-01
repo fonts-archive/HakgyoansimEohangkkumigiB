@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Hakgyoansim Eohangkkumigi B";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEohangkkumigiB/Hakgyoansim_EohangkkumigiB.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEohangkkumigiB/Hakgyoansim_EohangkkumigiB.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEohangkkumigiB/Hakgyoansim_EohangkkumigiB.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEohangkkumigiB/Hakgyoansim_EohangkkumigiB.ttf") format("truetype");
+}
